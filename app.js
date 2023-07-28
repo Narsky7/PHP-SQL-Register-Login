@@ -16,7 +16,6 @@ btn.addEventListener("click", () => {
 
 deletebtn.addEventListener("click", () => {
   popup.classList.add("popup-active");
-   console.log('asda');
 });
 
 closebtn.addEventListener("click", () => {
