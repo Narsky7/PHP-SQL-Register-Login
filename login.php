@@ -7,7 +7,7 @@ require './config/session_check.php';
 
 
 
-// Login check => User enters username. Then you find if of that user by username and look if password for that id is equal to the input
+
 
 require "./config/db_connection.php";
 
